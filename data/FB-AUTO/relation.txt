@@ -1,0 +1,8 @@
+privately_owned_vehicle	2
+engine	4
+generation	2
+us_fuel_economy	2
+manufacturing_plant_model_relationship	2
+model	5
+exterior_color	2
+make	2
